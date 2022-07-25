@@ -19,7 +19,7 @@ Get temperature from api using Zipcode and country code.
 
 ## To Start
 
-1. git clone https://github.com/taha-elmasir/MyReads-App
+1. git clone https://github.com/taha-elmasir/Weather-Journal-App.git
 2. cd MyReads-App
 3. npm install
 4. npm start
