@@ -24,6 +24,4 @@ Get temperature from api using Zipcode and country code.
 3. npm install
 4. npm start
 
-### Programmer name
-
 Taha Elmasir
