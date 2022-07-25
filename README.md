@@ -10,12 +10,8 @@ Get temperature from an API using Zip and country code.
 2. CSS3
 3. Javascript
 4. Node.JS
+5. Express.JS
 
-## methods used
-
-1. Object.assign()
-2. toFixed()
-3. json()
 
 ## To Start
 
