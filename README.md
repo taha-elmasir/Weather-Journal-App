@@ -2,7 +2,7 @@
 
 ## Description
 
-Get temperature from api using Zipcode and country code.
+Get temperature from an API using Zip and country code.
 
 ## tools and languages used to create the project
 
