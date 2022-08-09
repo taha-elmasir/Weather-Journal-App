@@ -2,9 +2,9 @@
 
 ## Description
 
-Get temperature from an API using Zip and country code.
+Get temperature from a weather API using Zip and country code.
 
-## tools and languages used to create the project
+## tools and languages used to create this project
 
 1. HTML5
 2. CSS3
